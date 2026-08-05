@@ -6,6 +6,7 @@ I am MS Computer Science student at **Northeastern University** (Khoury College)
 
 ### 🔭 What I'm working on
 - **MLH Fellowship** — Production Engineering track
+- **OpenClaw Skill Research** - Studying OpenClaw skill environment and potential attack surfaces  
 - Building intelligent, scalable software systems
 ### 🌱 What I'm exploring
 - Agentic AI security & LLM agent orchestration
